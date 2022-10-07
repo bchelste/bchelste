@@ -5,17 +5,14 @@
 
 ## Connect with me:
 
+- 📫 bchelste@gmail.com
+
 <div align="center">
   
 <a href="https://t.me/o_zdorova/" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-  
-<a href="https://bchelste@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=vk style="margin-bottom: 5px;" />
-</a>
-  
- 
+
 </div> 
 
 
