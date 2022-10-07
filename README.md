@@ -5,9 +5,8 @@
 
 ## Connect with me:
 
-
-<div align="center"> bchelste@gmail.com </div>  
-
+<h1 align="center">bchelste@gmail.com 📫</h1>
+ 
 <div align="center">
 <a href="https://t.me/o_zdorova/" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
