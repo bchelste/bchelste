@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Artem</h1>
+<h1 align="center">Hello World, I'm Artem ✌️</h1>
 <!--
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
 -->
