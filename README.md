@@ -5,7 +5,7 @@
 
 ## Connect with me:
 
-<a align="left"><img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /> bchelste@gmail.com 📫</a>
+<a align="left"> bchelste@gmail.com 📫</a>
  
 <div align="left">
 <a href="https://t.me/o_zdorova/" target="_blank">
@@ -16,9 +16,9 @@
 
 
 ## My Repo:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bchelste&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchelste&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bchelste&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bchelste&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchelste&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bchelste&theme=github)
 
 
 
