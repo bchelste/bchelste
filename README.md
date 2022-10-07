@@ -13,9 +13,15 @@
 </a>
 </div> 
 
+## My Skill Set
 
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75"/>  
+</div> 
 
-## My Repo:
+## My Repo stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bchelste&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchelste&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bchelste&theme=nord_bright)
