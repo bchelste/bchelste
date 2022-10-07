@@ -4,7 +4,7 @@
 -->
 
 ## Connect with me:
-
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 <a align="left">bchelste@gmail.com 📫</a>
  
 <div align="left">
