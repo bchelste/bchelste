@@ -5,7 +5,8 @@
 
 ## Connect with me:
 
-- 📫 bchelste@gmail.com
+<b align="center">📫 bchelste@gmail.com</b>
+
 
 <div align="center">
   
