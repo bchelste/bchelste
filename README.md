@@ -3,12 +3,24 @@
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
 -->
 
+## Connect with me:
+
+<div align="center">
+<a href="https://t.me/o_zdorova/" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+
+</div> 
+
+
+
 ## My Repo:
-<div align="center">  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bchelste&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchelste&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bchelste&theme=default)
-</div>  
+
+
+
 <!--
 **bchelste/bchelste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
