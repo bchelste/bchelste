@@ -1,5 +1,7 @@
 <h1 align="center">Hello World, I'm Artem</h1>
+<!--
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
+-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bchelste&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchelste&theme=default)
