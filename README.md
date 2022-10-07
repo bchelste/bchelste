@@ -6,7 +6,7 @@
 ## Connect with me:
 
 
-<div align="center">📫 bchelste@gmail.com</div>  
+<div align="center"> bchelste@gmail.com </div>  
 
 <div align="center">
 <a href="https://t.me/o_zdorova/" target="_blank">
