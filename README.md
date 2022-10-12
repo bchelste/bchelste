@@ -3,15 +3,10 @@
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
 -->
 
-![image1](https://github.com/bchelste/bchelste/blob/main/utils/42.svg)
 École 42 student
 https://42.fr
 
-<div align="left">
-<a href="https://42.fr" target="_blank">
-<img src=https://github.com/bchelste/bchelste/blob/main/utils/42.svg style="margin-bottom: 5px;" />
-</a>
-</div> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 
 
 ## Connect with me:
