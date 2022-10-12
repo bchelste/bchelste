@@ -2,6 +2,13 @@
 <!--
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
 -->
+
+<div align="left">
+<a href="https://42.fr" target="_blank">
+<img height="64" width="64" src="https://github.com/bchelste/bchelste/blob/main/utils/42.svg" />
+</a>
+</div> 
+
 <img height="64" width="64" src="https://github.com/bchelste/bchelste/blob/main/utils/42.svg" />
 École 42 student 👉 https://42.fr
 
