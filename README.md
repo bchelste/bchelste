@@ -7,6 +7,13 @@
 École 42 student
 https://42.fr
 
+<div align="left">
+<a href="https://42.fr" target="_blank">
+<img src=https://github.com/bchelste/bchelste/blob/main/utils/42.svg style="margin-bottom: 5px;" />
+</a>
+</div> 
+
+
 ## Connect with me:
 
 <a align="left"> bchelste@gmail.com 📫</a>
