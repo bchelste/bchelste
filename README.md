@@ -3,6 +3,10 @@
 <h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
 -->
 
+![image1](https://github.com/bchelste/bchelste/blob/main/utils/42.svg)
+École 42 student
+https://42.fr
+
 ## Connect with me:
 
 <a align="left"> bchelste@gmail.com 📫</a>
