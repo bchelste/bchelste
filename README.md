@@ -1,19 +1,4 @@
 <h1 align="center">Hello World, I'm Artem ✌️</h1>
-<!--
-<h3 align="center">BMSTU graduate and École 42 student, from Russia 🇷🇺</h3>
--->
-
-École 42 student
-
-<div align="left">
-<a href="https://42.fr" target="_blank">
-<img height="64" width="64" src="https://github.com/bchelste/bchelste/blob/main/utils/42.svg" />
-</a>
-</div> 
-
-👉 https://42.fr
-
-
 
 ## Connect with me:
 
